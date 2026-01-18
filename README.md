@@ -109,11 +109,12 @@ Upload an image for eye redness detection.
 ```
 
 ## Requirements
-- Python 3.8+
-- Flask 3.0.0
-- TensorFlow 2.15.0
-- NumPy 1.26.2
-- Pillow 10.1.0
+-flask==3.0.0
+-tensorflow==2.19.0
+-numpy==1.26.2
+-pillow==10.1.0
+-werkzeug==3.0.1
+-inference-sdk==0.9.15
 
 ## License
 This project is for educational purposes.
